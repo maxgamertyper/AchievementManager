@@ -5,7 +5,7 @@ Simple mod that gives or removes all the steam achievements
 
 ## Quick Links
 * **[MyBoplMods Repo](https://github.com/maxgamertyper/MyBoplMods)**
-* **[Thunderstore Link]([https://github.com/maxgamertyper/MyBoplMods](https://thunderstore.io/c/bopl-battle/p/maxgamertyper1/AchievementManager/))**
+* **[Thunderstore Link](https://thunderstore.io/c/bopl-battle/p/maxgamertyper1/AchievementManager/)**
 
 > *No video here as it wouldnt really show anything*
 
